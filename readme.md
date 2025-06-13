@@ -14,7 +14,6 @@ GlassText es una aplicación minimalista para tomar notas rápidas en una interf
 <u>Tecnologías utilizadas:</u> Python, PyQt5, ctypes y sys
 </p>
 
----
 #### Código fuente
 <p>
  El programa completo está contenido en un único archivo main.py con solo 187 líneas de código. Perfecto para aprender cómo construir interfaces con PyQt5 de forma compacta.
@@ -23,5 +22,6 @@ GlassText es una aplicación minimalista para tomar notas rápidas en una interf
 ---
 
 ![Preview_programa](./preview.png)
+<p>El texto usado de ejemplo es Team and players statistics, a breakdown on the Wildcard numbers and how they are compared in certain scenarios. Escrito por: @cs2_statistics</p>
 <h5>Contribuciones:</h5>
 <p>¿Tenés ideas para mejorar GlassText o encontraste un bug? ¡Tus aportes son bienvenidos! Podés contactarme a: luigiadduccidev@gmail.com</p>
